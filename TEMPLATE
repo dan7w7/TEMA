@@ -1763,7 +1763,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
 </script>
 
 <!-- Theme Functions JS Don't Remove This -->
-<script src=''/>
+<script src='https://cdn.statically.io/gh/dan7w7/TEMA/1e85e60a/TEMPLATE'/>
 <!-- Pagination Scripts -->
 <b:if cond='data:view.isMultipleItems'>
 <script type='text/javascript'>
